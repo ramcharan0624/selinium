@@ -1,0 +1,9 @@
+<suite name="test001">
+    <test name="my test">
+           <packages>
+     
+                 <package name="com.*"/>
+        </packages>
+      </test> 
+  
+ </suite>
